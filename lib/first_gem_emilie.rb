@@ -6,7 +6,7 @@ class String
 		self.split.count
 	end
 
-	def unique_word
+	def unique_words
 		self.split.uniq
 	end
 
