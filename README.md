@@ -2,7 +2,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/first_gem_emilie.png)](http://badge.fury.io/rb/first_gem_emilie)
 
-TODO: Write a gem description
+TODOS: Write a gem description
 
 ## Installation
 
