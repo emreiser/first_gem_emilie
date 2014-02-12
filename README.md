@@ -1,6 +1,6 @@
 # FirstGemEmilie
 
-[![Gem Version](https://badge.fury.io/rb/first_gem_emilie.png)](http://badge.fury.io/rb/first_gem_emilie)
+[![Gem Version](https://badge.fury.io/rb/first_gem_emilie.png)](http://badge.fury.io/rb/first_gem_emilie)[![Code Climate](https://codeclimate.com/repos/52fbb0356956805f7600303b/badges/d6814de98d0676466eab/gpa.png)](https://codeclimate.com/repos/52fbb0356956805f7600303b/feed)
 
 TODOS: Write a gem description
 
